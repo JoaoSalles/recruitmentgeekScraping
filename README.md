@@ -4,6 +4,7 @@ One example of input is:
 
 - python recruitmentgeek.py CEO Brasil
 
+I created a count variable which is stored on count.txt, it is used to come back in the same pagination in case of something. Everytime that you run the program reset the number in count to 1.
 
 Requiments:
 
