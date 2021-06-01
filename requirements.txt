@@ -3,7 +3,7 @@ dryscrape==1.0
 html5lib==1.0.1
 requests==2.18.4
 schedule==0.5.0
-urllib3==1.22
+urllib3==1.26.5
 webencodings==0.5.1
 webkit-server==1.0
 xvfbwrapper==0.2.9
